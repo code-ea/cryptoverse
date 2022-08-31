@@ -7,6 +7,6 @@
 * React js
 * Material UI
 
-<img src = "src/Screenshot from 2021-10-22 16-45-41.png">
+<img src = "cryptoverseImg.png">
 
 Happy Learning!!
